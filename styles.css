@@ -113,7 +113,7 @@
     box-shadow: 2px 2px 2px blue;
     color: blue;
   }
-  @media(max-width:375px){
+  @media(max-width:500px){
     #Rishikesh{
       flex-wrap: wrap;
     }
