@@ -159,6 +159,11 @@
     #card4{
       background-size: 400px 400px;
     }
+    video{
+    height: 200px;
+    width: 200px;
+    margin:10px
+  }
   }
 
   
