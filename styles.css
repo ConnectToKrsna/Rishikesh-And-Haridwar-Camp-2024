@@ -33,6 +33,7 @@
     background-color: #3c787e;
     border: 2px solid black;
     background-image: url("Rishikeshp6.jpg");
+    background-size: 1600px 1000px;
     background-blend-mode: multiply;
     /* background-repeat: no-repeat; */
     color: white;
@@ -64,7 +65,11 @@
   }
   img {
     width: 100%;
-    border-radius: 20px;
+    border-radius: 20px ;
+  }
+  video{
+    height: 400px;
+    width: 400px;
   }
   .footer{
     display: flex;
